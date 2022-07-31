@@ -4,4 +4,6 @@ CODING
 
 SQL Tutorial
     https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3962s
+SQL Download
+    https://dev.mysql.com/downloads/mysql/
     
