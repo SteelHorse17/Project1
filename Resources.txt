@@ -2,8 +2,14 @@ This will be a curated list of the resources used to make this project happen. T
 
 CODING
 
-SQL Tutorial
-    https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3962s
-SQL Download
-    https://dev.mysql.com/downloads/mysql/
+    SQL Tutorial
+        https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3962s
+    SQL Download
+        https://dev.mysql.com/downloads/mysql/
     
+CLOUD
+    
+    AWS Cloud
+        https://aws.amazon.com/
+    Linux Upskill Challenge
+        https://www.reddit.com/r/linuxupskillchallenge/
