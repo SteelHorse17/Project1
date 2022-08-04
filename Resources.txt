@@ -13,3 +13,8 @@ CLOUD
         https://aws.amazon.com/
     Linux Upskill Challenge
         https://www.reddit.com/r/linuxupskillchallenge/
+
+DATASETS
+    
+    10 Free Public Datasets/Projects For Beginners
+        https://www.coursera.org/articles/data-analytics-projects-for-beginners
